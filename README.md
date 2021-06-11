@@ -26,4 +26,4 @@ Run node script.js from terminal
 
 ## Status
 
-Ongoing
+Project is now complete
